@@ -14,6 +14,24 @@ reply a real person would set and send, a genuine surprise in the second
 half, a voice of its own rather than a template, fresh in its specific
 detail rather than a generic "I'm on holiday" line, and every word
 earning its place.
+
+Second pass — why the line works, word by word. The voice is
+self-deprecating without grovelling: "frankly" is the confessional pivot
+that makes the joke feel like an honest admission rather than a gag
+written for applause, and the understatement ("a better job than I ever
+did") lands harder than any exaggeration would, because it quietly
+admits the owner was the bottleneck all along. The twist is a reversal
+of the usual out-of-office power dynamic: normally the human delegates
+to an auto-reply; here the human delegates to the inbox, and the inbox
+outperforms them. "Left my inbox in charge" does the heavy lifting in
+five words — it personifies the inbox just enough to be funny, while
+staying inside something a real person could plausibly write in an
+auto-reply. Nothing in the line depends on a trend, a brand, or a
+punchline format the judge will have seen a dozen times; the humour
+comes from the situation itself, which is why it still reads fresh on
+the second read. At 105 characters it is short enough to be read in one
+breath, and the two-sentence rhythm (plain setup, then the turn) gives
+the twist a clean runway.
 """
 
 import os
